@@ -3,4 +3,8 @@
 - derekmisler@gmail.com
 - [derekmisler.com](https://derekmisler.com)
 
-I am a front-end engineer, occasionally a designer, and a very serious person living in Brooklyn, NY, with 15+ years of experience building exceptional, high-quality websites and applications. I also have a graphic design background, tons of UI/UX design experience, and a curiously large knowledge of typography (seriously, let's talk about it). I prefer my barbecue sauce vinegar-based, and my metal heavy. Also, I like to run a lot (because of the barbecue).
+As a front-end engineer and, occasionally, a designer, I bring over 15 years of experience in crafting high-quality websites and applications. My journey with front-end development began at 13, driven by a natural curiosity and a passion for tinkering and understanding how things work. The web, for me, has always been a playground for experimentation and learning.
+
+My passion lies in making the web a more efficient, accessible, and welcoming space. I studied graphic design in school, which, coupled with my freelance work building websites for small businesses in my town, allowed me to blend my eye for design with my love for front-end development.
+
+My education and experience span a range of web and app development languages, both for desktop and mobile. I firmly believe that this diverse, well-rounded education, along with a robust background in design, substantial UI/UX experience, and an extensive knowledge of typography, strengthens my abilities as an engineer.
