@@ -1,10 +1,21 @@
 # Derek Misler
-- Brooklyn, NY, United States
-- derekmisler@gmail.com
+## Front-end engineer and design enthusiast, dedicated to creating accessible and engaging web experiences with a keen eye for UI/UX and typography.
+
 - [derekmisler.com](https://derekmisler.com)
+- [derekmisler@gmail.com](mailto:derekmisler@gmail.com)
+- [linkedin.com/in/derekmisler](https://linkedin.com/in/derekmisler)
 
-As a front-end engineer and, occasionally, a designer, I bring over 15 years of experience in crafting high-quality websites and applications. My journey with front-end development began at 13, driven by a natural curiosity and a passion for tinkering and understanding how things work. The web, for me, has always been a playground for experimentation and learning.
+A seasoned front-end engineer with 15+ years of experience, I began web development at age 13, driven by curiosity. Skilled in graphic design and diverse web and app development, I excel in crafting accessible, user-friendly digital experiences, combining technical expertise with strong design sensibility and deep UI/UX and typography knowledge.
 
-My passion lies in making the web a more efficient, accessible, and welcoming space. I studied graphic design in school, which, coupled with my freelance work building websites for small businesses in my town, allowed me to blend my eye for design with my love for front-end development.
-
-My education and experience span a range of web and app development languages, both for desktop and mobile. I firmly believe that this diverse, well-rounded education, along with a robust background in design, substantial UI/UX experience, and an extensive knowledge of typography, strengthens my abilities as an engineer.
+### Languages
+HTML, CSS, JavaScript, TypeScript, Python (Flask, django), Ruby (Rails)
+### Frameworks/Libraries
+React, Redux, Next.js, Node.js, React Native, AngularJS, Aurelia, Gatsby
+### Tools & Technologies
+Webpack, Babel, swc, ESLint, Prettier, NPM/Yarn, Docker, AWS, CircleCI
+### Testing
+Jest, React Testing Library (RTL), Cypress, Enzyme, Storybook
+### Design & UX
+Figma, UI/UX, Responsive/Mobile-First Design, Typography, Tailwind
+### Other Skills
+SEO, A11y, Functional Programming, API Design, Performance, PWAs
