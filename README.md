@@ -14,13 +14,13 @@ A seasoned front-end engineer with 15+ years of experience, I began web developm
 ### Stuff I'm Pretty Good With
 <dl>
   <dt>Languages</dt>
-  <dd>HTML, CSS, JavaScript, TypeScript, Python (Flask, Django), Ruby (Rails)</dd>
+  <dd>HTML, CSS, JavaScript/TypeScript, Python, Ruby</dd>
   <dt>Frameworks/Libraries</dt>
-  <dd>React, Redux, Next.js, Node.js, React Native, AngularJS, Aurelia, Gatsby</dd>
+  <dd>React, Redux, Next.js, Astro, Flask, Django, Rails, Node.js, React Native, AngularJS, Aurelia</dd>
   <dt>Tools & Technologies</dt>
-  <dd>Webpack, Babel, swc, ESLint, Prettier, NPM/Yarn, Docker, AWS, CircleCI</dd>
+  <dd>Webpack, Babel, swc, ESLint, Prettier, NPM/Yarn, Docker, AWS, GCP, CircleCI</dd>
   <dt>Testing</dt>
-  <dd>Jest, React Testing Library (RTL), Cypress, Enzyme, Storybook</dd>
+  <dd>Jest, React Testing Library (RTL), Cypress, Enzyme, Storybook, Chromatic</dd>
   <dt>Design & UX</dt>
   <dd>Figma, UI/UX, Responsive/Mobile-First Design, Typography, Tailwind</dd>
   <dt>Other Skills</dt>
