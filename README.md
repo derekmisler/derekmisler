@@ -1,6 +1,6 @@
 # Derek Misler
-### Front-end engineer and design enthusiast, dedicated to creating accessible and engaging web experiences with a keen eye for UI/UX and typography.
-A seasoned front-end engineer with 15+ years of experience, I began web development at age 13, driven by curiosity. Skilled in graphic design and diverse web and app development, I excel in crafting accessible, user-friendly digital experiences, combining technical expertise with strong design sensibility and deep UI/UX and typography knowledge.
+## Front-end engineer, design enthusiast, and accessibility advocate with 15+ years of experience across diverse industries.
+Hello! I’m a senior front‑end engineer and design‑focused UI/UX specialist with 15+ years of experience crafting accessible, engaging web experiences. At Docker, I work on AI agents and developer tooling, blending React, TypeScript, and design systems with a strong eye for typography and inclusive design. I lead teams through migrations, AI‑powered workflows, and analytics surfaces that feel as good as they perform.
 
 ---
 
@@ -10,6 +10,15 @@ A seasoned front-end engineer with 15+ years of experience, I began web developm
 - [linkedin.com/in/derekmisler](https://linkedin.com/in/derekmisler)
 
 ---
+
+### Highlights
+<dl>
+  <dd>Senior front‑end engineer at Docker working on AI agents and Docker’s developer tools, bringing AI‑powered workflows into Docker Desktop.</dd>
+  <dd>Lead engineer on analytics dashboards and Insights experiences for enterprise customers, helping teams understand usage, adoption, and ROI.</dd>
+  <dd>Led Patreon’s migration to Next.js and a modern front‑end platform, cutting LCP by 55% while keeping UX quality, accessibility, and rollout safety front and center.</dd>
+  <dd>Served as the first front‑end engineer and later Staff‑level lead at Transfix, defining web and mobile architecture, shared libraries, and front‑end standards.</dd>
+  <dd>Can blend high‑quality design training, typography, and layout craft with 15+ years of engineering experience to ship inclusive, polished product surfaces quickly and reliably.</dd>
+</dl>
 
 ### Stuff I'm Pretty Good With
 <dl>
