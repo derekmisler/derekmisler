@@ -1,6 +1,6 @@
 # Derek Misler
-## Front-end engineer, design enthusiast, and accessibility advocate with 15+ years of experience across diverse industries.
-Hello! I’m a senior front‑end engineer and design‑focused UI/UX specialist with 15+ years of experience crafting accessible, engaging web experiences. At Docker, I work on AI agents and developer tooling, blending React, TypeScript, and design systems with a strong eye for typography and inclusive design. I lead teams through migrations, AI‑powered workflows, and analytics surfaces that feel as good as they perform.
+## Front-end engineer building AI agent tooling at Docker.
+15+ years shipping production-grade systems, from design-system infrastructure to the testing contracts and quality bars that make them reliable at scale. The design background never left: a BFA in graphic design still shapes how I approach typography, layout, and visual hierarchy.
 
 ---
 
@@ -13,15 +13,17 @@ Hello! I’m a senior front‑end engineer and design‑focused UI/UX specialist
 
 ### Highlights
 <dl>
-  <dd>Senior front‑end engineer at Docker working on AI agents and Docker’s developer tools, bringing AI‑powered workflows into Docker Desktop.</dd>
-  <dd>Lead engineer on analytics dashboards and Insights experiences for enterprise customers, helping teams understand usage, adoption, and ROI.</dd>
-  <dd>Led Patreon’s migration to Next.js and a modern front‑end platform, cutting LCP by 55% while keeping UX quality, accessibility, and rollout safety front and center.</dd>
-  <dd>Served as the first front‑end engineer and later Staff‑level lead at Transfix, defining web and mobile architecture, shared libraries, and front‑end standards.</dd>
-  <dd>Can blend high‑quality design training, typography, and layout craft with 15+ years of engineering experience to ship inclusive, polished product surfaces quickly and reliably.</dd>
+  <dd>Led engineering across Docker’s AI agent platform, including Gordon 2.0, Docker’s AI assistant shipping to millions of Docker Desktop users.</dd>
+  <dd>Built docker-agent-action, Docker’s AI-assisted PR review platform, rolled it out to 100+ repositories and every engineering team, hardened its security, and open-sourced it under Apache 2.0.</dd>
+  <dd>Embedded with Docker’s AI Governance team as the sole frontend lead on one of the company’s top priorities, supporting a major enterprise contract.</dd>
+  <dd>Led the front-end workstream of Patreon’s full migration from Flask to Next.js, with better developer experience, TypeScript and documentation, modern testing, and 55% lower LCP.</dd>
+  <dd>Went from senior engineer to tech lead at Cadre, and from first front-end engineer to Staff-level lead at Transfix.</dd>
 </dl>
 
 ### Stuff I'm Pretty Good With
 <dl>
+  <dt>AI & Agents</dt>
+  <dd>Claude API, OpenAI API, Tool Calling, Agent Workflows, LLM Orchestration, Prompt Engineering, Agent Security</dd>
   <dt>Languages</dt>
   <dd>HTML, CSS, JavaScript/TypeScript, Python, Ruby, Go</dd>
   <dt>Frameworks/Libraries</dt>
